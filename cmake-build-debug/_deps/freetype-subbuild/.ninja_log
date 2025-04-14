@@ -1,0 +1,21 @@
+# ninja log v6
+2227	2235	1744037096804217163	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	c3172921c4978f6e
+2235	2244	1744037096812534882	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	61fa62abc8e66cd0
+2244	2253	1744037096821708044	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	591a19a0be0a6dc5
+0	10	1744037094578566471	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	7d26b5f07eb8fc70
+2261	2274	1744037096842681193	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	16997c75b91c6022
+2218	2227	1744037096795860194	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	ee3c0bbf419cf2dd
+2235	2244	1744037096812534882	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	61fa62abc8e66cd0
+2261	2274	1744037096842681193	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	16997c75b91c6022
+10	2209	1744037096778034569	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	58ae2cc4d7ccc8a1
+2261	2274	1744037096842681193	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	16997c75b91c6022
+10	2209	1744037096778034569	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	58ae2cc4d7ccc8a1
+0	10	1744037094578566471	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	7d26b5f07eb8fc70
+2209	2218	1744037096787112441	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	17c4985fdbab32c8
+2209	2218	1744037096787112441	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	17c4985fdbab32c8
+2253	2261	1744037096830038221	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8b4b709761987f73
+2244	2253	1744037096821708044	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	591a19a0be0a6dc5
+2218	2227	1744037096795860194	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	ee3c0bbf419cf2dd
+2227	2235	1744037096804217163	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	c3172921c4978f6e
+2253	2261	1744037096830038221	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8b4b709761987f73
+2261	2274	1744037096842681193	CMakeFiles/freetype-populate-complete	16997c75b91c6022

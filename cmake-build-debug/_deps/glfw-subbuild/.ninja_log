@@ -1,0 +1,21 @@
+# ninja log v6
+0	13	1744037092902916321	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	a49f6fc43701b1ab
+0	13	1744037092902916321	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	a49f6fc43701b1ab
+583	592	1744037093482130567	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	4adacd4cd0c29f3e
+543	553	1744037093442590890	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	b4fa2f10909af4eb
+543	553	1744037093442590890	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	b4fa2f10909af4eb
+13	531	1744037093420304515	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	35b218a9da4885fb
+553	563	1744037093452675243	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d3ac595a12cf3836
+592	607	1744037093496379801	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9e334ad081d876c8
+531	543	1744037093432311957	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	dc344a614a94d033
+531	543	1744037093432311957	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	dc344a614a94d033
+563	573	1744037093462829345	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	bce5755d9bb66274
+573	583	1744037093472479372	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	971dff092d31a51c
+592	607	1744037093496379801	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9e334ad081d876c8
+563	573	1744037093462829345	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	bce5755d9bb66274
+13	531	1744037093420304515	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	35b218a9da4885fb
+553	563	1744037093452675243	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d3ac595a12cf3836
+583	592	1744037093482130567	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	4adacd4cd0c29f3e
+592	607	1744037093496379801	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	9e334ad081d876c8
+573	583	1744037093472479372	/Users/shamusmurphy/Desktop/2025/advancedProg/M4-OEP--smurph46/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	971dff092d31a51c
+592	607	1744037093496379801	CMakeFiles/glfw-populate-complete	9e334ad081d876c8
